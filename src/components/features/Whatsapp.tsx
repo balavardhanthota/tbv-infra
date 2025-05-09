@@ -15,7 +15,7 @@ export const Whatsapp: React.FC = () => {
       whileHover={{ scale: 1.1 }}
     >
       <a
-        href="https://wa.me/916301068850"
+        href="https://wa.me/919441392121"
         target="_blank"
         rel="noopener noreferrer"
         className="flex items-center bg-[#25D366] text-white px-4 py-3 rounded-full shadow-lg hover:bg-[#128C7E] transition-colors"

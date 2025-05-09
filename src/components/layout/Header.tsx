@@ -104,7 +104,7 @@ export const Header: React.FC<HeaderProps> = ({ activeSection }) => {
             </AnimatePresence>
           </div>
 
-          <a 
+          {/* <a 
             href="/opportunities" 
             target="_blank" 
             rel="noopener noreferrer"
@@ -115,7 +115,7 @@ export const Header: React.FC<HeaderProps> = ({ activeSection }) => {
             }`}
           >
             {t('navigation.opportunities')}
-          </a>
+          </a> */}
         </nav>
 
         {/* Mobile Menu Button */}
@@ -154,12 +154,12 @@ export const Header: React.FC<HeaderProps> = ({ activeSection }) => {
                 </button>
               ))}
               
-              <a 
+              {/* <a 
                 href="/opportunities"
                 className="py-3 px-4 text-left text-lg font-medium rounded-md bg-primary-600 text-white hover:bg-primary-700"
               >
                 {t('navigation.opportunities')}
-              </a>
+              </a> */}
               
               <div className="py-3 px-4">
                 <p className="text-gray-500 mb-2">Select Language</p>
