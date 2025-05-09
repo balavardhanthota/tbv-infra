@@ -17,7 +17,7 @@ export const Projects: React.FC = () => {
       manager: '+91 9876543210',
       overview: 'Premium residential plots near Gannavaram Airport',
       plotSizes: '200 sq yd, 267 sq yd, 300 sq yd',
-      approvals: 'DTCP Approved, Bank Loan Available',
+      approvals: 'DTCP & Rera Approved, Bank Loan Available',
       coordinates: { lat: 16.5062, lng: 80.6480 },
       vastuFeatures: [
         'East/North facing plots',
@@ -45,7 +45,7 @@ export const Projects: React.FC = () => {
       manager: '+91 9876543212',
       overview: 'Highway-facing commercial plots',
       plotSizes: '300 sq yd, 500 sq yd, 1000 sq yd',
-      approvals: 'DTCP Approved, Bank Loan Available',
+      approvals: 'DTCP & Rera Approved, Bank Loan Available',
       coordinates: { lat: 16.3067, lng: 80.4365 },
       vastuFeatures: [
         'East-facing commercial plots',
@@ -56,10 +56,10 @@ export const Projects: React.FC = () => {
     },
     kurnool: {
       title: t('projects.locations.kurnool'),
-      manager: '+91 9876543213',
+      manager: '+91 78424332626',
       overview: 'Residential plots with modern amenities',
       plotSizes: '200 sq yd, 267 sq yd',
-      approvals: 'DTCP Approved, Bank Loan Available',
+      approvals: 'DTCP & Rera Approved, Bank Loan Available',
       coordinates: { lat: 15.8281, lng: 78.0373 },
       vastuFeatures: [
         'North-east corner plots',
@@ -70,10 +70,10 @@ export const Projects: React.FC = () => {
     },
     khammam: {
       title: t('projects.locations.khammam'),
-      manager: '+91 9876543214',
+      manager: '+91 78424332626',
       overview: 'Residential and agricultural plots',
       plotSizes: '250 sq yd, 500 sq yd',
-      approvals: 'DTCP Approved, Bank Loan Available',
+      approvals: 'DTCP & Rera Approved, Bank Loan Available',
       coordinates: { lat: 17.2476, lng: 80.1515 },
       vastuFeatures: [
         'East-facing entrance',
@@ -84,10 +84,10 @@ export const Projects: React.FC = () => {
     },
     avanigadda: {
       title: t('projects.locations.avanigadda'),
-      manager: '+91 9876543215',
+      manager: '+91 78424332626',
       overview: 'Riverside plots with scenic views',
       plotSizes: '200 sq yd, 300 sq yd',
-      approvals: 'DTCP Approved, Bank Loan Available',
+      approvals: 'DTCP & Rera Approved, Bank Loan Available',
       coordinates: { lat: 16.0217, lng: 80.9170 },
       vastuFeatures: [
         'Water body in northeast',
