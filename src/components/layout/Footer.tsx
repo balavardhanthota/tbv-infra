@@ -55,10 +55,10 @@ export const Footer: React.FC = () => {
                 </a>
               </li>
               <li>
-                <a href="/opportunities" className="text-gray-400 hover:text-primary-400 flex items-center transition-colors">
+                {/* <a href="/opportunities" className="text-gray-400 hover:text-primary-400 flex items-center transition-colors">
                   <ArrowRight size={16} className="mr-2" />
                   {t('footer.jobs')}
-                </a>
+                </a> */}
               </li>
               <li>
                 <a href="#complaint" className="text-gray-400 hover:text-primary-400 flex items-center transition-colors">
