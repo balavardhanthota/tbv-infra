@@ -1,0 +1,144 @@
+{
+  "navigation": {
+    "home": "Home",
+    "about": "About",
+    "projects": "Projects",
+    "contact": "Contact",
+    "complaint": "Complaint",
+    "opportunities": "Opportunities",
+    "partnerWithUs": "Partner With Us"
+  },
+  "hero": {
+    "tagline": "Trusted Plots. Transparent Deals. Telangana & AP's Future Starts Here.",
+    "exploreProjects": "Explore Our Projects",
+    "applyLoan": "Apply for 100% Loan"
+  },
+  "about": {
+    "title": "About Us",
+    "intro": "Founded in 2025, TBV Infra is a plot development company focused on legal transparency and customer-first service without brokers.",
+    "values": {
+      "title": "Our Values",
+      "trust": "Trust",
+      "legalClarity": "Legal Clarity",
+      "emiFlexibility": "EMI Flexibility",
+      "brokerFree": "Broker-Free"
+    },
+    "milestone1": "Founded in 2025",
+    "milestone2": "Expanded to 6 cities",
+    "milestone3": "500+ happy customers",
+    "milestone4": "100% legal documentation"
+  },
+  "projects": {
+    "title": "Our Projects",
+    "brochure": "Download Brochure",
+    "loanSupport": "Loan Support By",
+    "emiCalculator": "EMI Calculator",
+    "locations": {
+      "vijayawada": "Vijayawada",
+      "hyderabad": "Hyderabad",
+      "guntur": "Guntur",
+      "kurnool": "Kurnool",
+      "khammam": "Khammam",
+      "avanigadda": "Avanigadda"
+    },
+    "contactManager": "Contact Project Manager",
+    "projectOverview": "Project Overview",
+    "plotSizes": "Plot Sizes",
+    "approvals": "Approvals"
+  },
+  "partner": {
+    "title": "Partner With Us",
+    "description": "TBV Infra partners with plot developers, landowners, NBFCs, and legal experts to create value for all stakeholders.",
+    "submitProposal": "Submit Partner Proposal",
+    "partnerTypes": {
+      "bank": "Bank/NBFC",
+      "legal": "Legal Expert",
+      "vendor": "Vendor",
+      "landProvider": "Land Provider"
+    },
+    "form": {
+      "name": "Full Name",
+      "phone": "Phone Number",
+      "email": "Email Address",
+      "partnerType": "Partner Type",
+      "message": "Tell us about yourself",
+      "uploadDocs": "Upload Documents",
+      "submit": "Submit Proposal"
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "headOffice": "Head Office",
+    "address": "123 Business Park, Hitech City, Hyderabad, Telangana, India",
+    "phone": "Phone",
+    "email": "Email",
+    "form": {
+      "name": "Your Name",
+      "phone": "Phone Number",
+      "city": "City",
+      "message": "Your Message",
+      "submit": "Send Inquiry"
+    }
+  },
+  "complaint": {
+    "title": "File a Complaint",
+    "description": "Report illegal brokers or agents misusing TBV Infra name. We deal only with direct buyers, no middlemen.",
+    "form": {
+      "name": "Your Name (Optional)",
+      "complaintType": "Complaint Type",
+      "details": "Complaint Details",
+      "uploadProof": "Upload Proof (Optional)",
+      "submit": "Submit Complaint"
+    },
+    "anonymous": "Submit Anonymously",
+    "trackingId": "Your complaint ID for tracking:",
+    "options": {
+      "misrepresentation": "Agent Misrepresentation",
+      "illegalBrokerage": "Illegal Brokerage",
+      "fraud": "Fraud Attempt",
+      "other": "Other"
+    }
+  },
+  "opportunities": {
+    "title": "Career Opportunities",
+    "description": "Join our growing team and be part of building the future of Andhra Pradesh and Telangana.",
+    "positions": {
+      "salesExecutive": "Sales Executive",
+      "siteSupervisor": "Site Supervisor",
+      "marketingAgent": "Marketing Agent",
+      "admin": "Admin"
+    },
+    "form": {
+      "name": "Full Name",
+      "phone": "Phone Number",
+      "email": "Email Address",
+      "position": "Position",
+      "resume": "Upload Resume",
+      "submit": "Apply Now"
+    }
+  },
+  "footer": {
+    "quickLinks": "Quick Links",
+    "brochures": "Brochures",
+    "projects": "Projects",
+    "jobs": "Jobs",
+    "complaint": "Complaint",
+    "copyright": "Copyright © TBV Infra 2025",
+    "madeIn": "Made in Andhra Pradesh"
+  },
+  "notification": {
+    "newProject": "New Project Launch: Green Valley Plots in Vijayawada! Early bird discount available."
+  },
+  "whatsapp": {
+    "chat": "Chat with us"
+  },
+  "emiCalculator": {
+    "title": "EMI Calculator",
+    "loanAmount": "Loan Amount",
+    "interestRate": "Interest Rate",
+    "loanTenure": "Loan Tenure (Years)",
+    "calculate": "Calculate EMI",
+    "result": "Your Monthly EMI",
+    "close": "Close"
+  }
+}
