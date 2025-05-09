@@ -113,10 +113,10 @@ export const Footer: React.FC = () => {
                 {t('contact.address')}
               </p>
               <p className="text-gray-400 mb-2">
-                {t('contact.phone')}: +91 9876543210
+                {t('contact.phone')}: +91 9441392121
               </p>
               <p className="text-gray-400">
-                {t('contact.email')}: info@tbvinfra.com
+                {t('contact.email')}: ceo@tbvinfra.com
               </p>
             </address>
           </div>

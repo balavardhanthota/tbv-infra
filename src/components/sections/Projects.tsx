@@ -28,7 +28,7 @@ export const Projects: React.FC = () => {
     },
     hyderabad: {
       title: t('projects.locations.hyderabad'),
-      manager: '+91 9876543211',
+      manager: '+91 78424332626',
       overview: 'Gated community plots in Shamshabad',
       plotSizes: '200 sq yd, 300 sq yd, 500 sq yd',
       approvals: 'HMDA Approved, Bank Loan Available',
@@ -42,7 +42,7 @@ export const Projects: React.FC = () => {
     },
     guntur: {
       title: t('projects.locations.guntur'),
-      manager: '+91 9876543212',
+      manager: '+91 78424332626',
       overview: 'Highway-facing commercial plots',
       plotSizes: '300 sq yd, 500 sq yd, 1000 sq yd',
       approvals: 'DTCP & Rera Approved, Bank Loan Available',
